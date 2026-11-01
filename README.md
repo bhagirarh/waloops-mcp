@@ -20,7 +20,7 @@ WALoops is a **remote, hosted MCP server** that gives your AI coding assistant W
 
 ## Quick start
 
-**Get a free key** at [app.waloops.com/register](https://app.waloops.com/register?plan=wp-otp-free&src=github) -- 100 WhatsApp OTPs/month, no credit card required.
+**Get a free key** at [app.waloops.com/register](https://app.waloops.com/#/register?plan=wp-otp-free&src=github) -- 100 WhatsApp OTPs/month, no credit card required.
 
 The server can initialize, list tools, and run `get_started` with no key at all. A key is only needed for tools that send or read account data.
 
