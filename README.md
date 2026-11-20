@@ -24,6 +24,18 @@ WALoops is a **remote, hosted MCP server** that gives your AI coding assistant W
 
 The server can initialize, list tools, and run `get_started` with no key at all. A key is only needed for tools that send or read account data.
 
+## Run locally (stdio)
+
+```bash
+npx -y github:bhagirarh/waloops-mcp
+```
+
+Or with Docker:
+
+```bash
+docker build -t waloops-mcp . && docker run -i --rm -e WALOOPS_API_KEY=... waloops-mcp
+```
+
 ---
 
 ## Install configs
